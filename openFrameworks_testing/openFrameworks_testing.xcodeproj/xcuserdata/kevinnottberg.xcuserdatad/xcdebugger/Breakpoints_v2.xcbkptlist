@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/bubble.h"
+            timestampString = "540633266.4721889"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bubble::~Bubble()"
+                  moduleName = "openFrameworks_testingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinnottberg/Documents/Open_Frameworks/of_v0.9.8_osx_release/apps/myApps/openFrameworks_testing/src/bubble.h"
+                  timestampString = "539931690.957906"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bubble::~Bubble()"
+                  moduleName = "openFrameworks_testingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinnottberg/Documents/Open_Frameworks/of_v0.9.8_osx_release/apps/myApps/openFrameworks_testing/src/bubble.h"
+                  timestampString = "539931690.963051"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bubble::Bubble(Bubble const&amp;)"
+                  moduleName = "openFrameworks_testingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinnottberg/Documents/Open_Frameworks/of_v0.9.8_osx_release/apps/myApps/openFrameworks_testing/src/bubble.h"
+                  timestampString = "539931690.9658771"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bubble::Bubble(Bubble const&amp;)"
+                  moduleName = "openFrameworks_testingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinnottberg/Documents/Open_Frameworks/of_v0.9.8_osx_release/apps/myApps/openFrameworks_testing/src/bubble.h"
+                  timestampString = "539931690.9685659"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bubble::Bubble(Bubble&amp;&amp;)"
+                  moduleName = "openFrameworks_testingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinnottberg/Documents/Open_Frameworks/of_v0.9.8_osx_release/apps/myApps/openFrameworks_testing/src/bubble.h"
+                  timestampString = "539931690.970904"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bubble::Bubble(Bubble&amp;&amp;)"
+                  moduleName = "openFrameworks_testingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinnottberg/Documents/Open_Frameworks/of_v0.9.8_osx_release/apps/myApps/openFrameworks_testing/src/bubble.h"
+                  timestampString = "539931690.973117"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/bubble.h"
+            timestampString = "540633266.472297"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bubble::~Bubble()"
+                  moduleName = "openFrameworks_testingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinnottberg/Documents/Open_Frameworks/of_v0.9.8_osx_release/apps/myApps/openFrameworks_testing/src/bubble.h"
+                  timestampString = "539931690.982004"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bubble::~Bubble()"
+                  moduleName = "openFrameworks_testingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinnottberg/Documents/Open_Frameworks/of_v0.9.8_osx_release/apps/myApps/openFrameworks_testing/src/bubble.h"
+                  timestampString = "539931690.984789"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bubble::Bubble(Bubble const&amp;)"
+                  moduleName = "openFrameworks_testingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinnottberg/Documents/Open_Frameworks/of_v0.9.8_osx_release/apps/myApps/openFrameworks_testing/src/bubble.h"
+                  timestampString = "539931690.9875309"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bubble::Bubble(Bubble const&amp;)"
+                  moduleName = "openFrameworks_testingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinnottberg/Documents/Open_Frameworks/of_v0.9.8_osx_release/apps/myApps/openFrameworks_testing/src/bubble.h"
+                  timestampString = "539931690.990236"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bubble::Bubble(Bubble&amp;&amp;)"
+                  moduleName = "openFrameworks_testingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinnottberg/Documents/Open_Frameworks/of_v0.9.8_osx_release/apps/myApps/openFrameworks_testing/src/bubble.h"
+                  timestampString = "539931690.993273"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bubble::Bubble(Bubble&amp;&amp;)"
+                  moduleName = "openFrameworks_testingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinnottberg/Documents/Open_Frameworks/of_v0.9.8_osx_release/apps/myApps/openFrameworks_testing/src/bubble.h"
+                  timestampString = "539931690.9956059"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

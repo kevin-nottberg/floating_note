@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<data>
+	<bubble name="1">
+		<header>Title/Header Place Holder</header>
+		<text>Example text to display: Bubble 1</text>
+	</bubble>
+	<bubble name="2">
+		<header>Title/Header Place Holder</header>
+		<text>Example text to display: Bubble 2</text>
+	</bubble>
+	<bubble name="3">
+		<header>Title/Header Place Holder</header>
+		<text>Example text to display: Bubble 3</text>
+	</bubble>
+	<bubble name="4">
+		<header>Title/Header Place Holder</header>
+		<text>Example text to display: Bubble 4</text>
+	</bubble>
+	<bubble name="5">
+		<header>Title/Header Place Holder</header>
+		<text>Example text to display: Bubble 4</text>
+	</bubble>
+</data>
+
